@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyShowApp</string>
+    <string name="message_register_successful">Successful Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="user_registration">User Registration</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="back">Back</string>
+    <string name="message_invalid_login">Invalid Login!</string>
+    <string name="google_maps_key">AIzaSyCWADK5qbhNX_VygrgUQt_Z1gsEjZnl43c</string>
+</resources>
